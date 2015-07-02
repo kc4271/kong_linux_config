@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/kong/Desktop/caffe/kaggle_data_enhance'
+let g:netrw_dirhist_2='/home/kong/Desktop/caffe/src'
+let g:netrw_dirhist_3='/home/kong/Desktop/caffe/tools'
+let g:netrw_dirhist_4='/home/kong/Downloads/astyle/build/gcc'
+let g:netrw_dirhist_5='/home/kongy/.vim'
